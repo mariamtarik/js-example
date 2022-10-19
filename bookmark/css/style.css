@@ -1,0 +1,48 @@
+header h3{
+    color: #AAA;
+    font-size: 30px;
+    font-weight: 700;
+    border-bottom: solid 1px #999;
+}
+.content{
+    width: 90%;
+    background-color: #ddd;
+    
+}
+input[type=text]:focus {
+    border-color: black;
+    box-shadow: 0 0 0 0;
+    
+}
+.form-control {
+    border-radius: 5px;
+    height: calc(1.2em + .75rem + 2px);
+    
+}
+.content p{
+   
+    font-weight: 700;
+}
+.contents{
+    border-bottom: solid 1px #999;
+}
+footer p{
+    color: #AAA;
+    font-weight: 700;
+}
+.bookMark-list{
+    background-image: linear-gradient(#EEE,#FFF);
+    width:90%;
+    
+}
+.alert-error {
+    background-color: #ffb2b2;
+    color: #6d0000;
+    border: 1px solid #6d0000;
+}
+.alert{
+    padding: 5px;
+}
+.label{
+    font-weight: 600;
+}

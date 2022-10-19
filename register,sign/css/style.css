@@ -1,0 +1,16 @@
+body{
+    background-color: #24353f;
+}
+h1{
+    color: #17a2b8;
+    font-size: 2,8rem;
+    font-weight: 400;
+}
+.content{
+    
+        box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.text{
+    color:red;
+    font-size: 20px;
+}
